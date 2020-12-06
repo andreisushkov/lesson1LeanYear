@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LeanYear:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LeanYear_jar</output-path>
+    <root id="archive" name="LeanYear.jar">
+      <element id="module-output" name="LeanYear" />
+    </root>
+  </artifact>
+</component>
